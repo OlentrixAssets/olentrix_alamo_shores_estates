@@ -18,6 +18,9 @@ Or hit **Code → Download ZIP** to grab both, each in its own folder.
 > [!WARNING]
 > Only run one, they're the same map and will fight.
 
+
+**Questions, bugs, screenshots?** Come say hi on [Discord](https://discord.gg/FTZTtQRsfR).
+
 <details>
 <summary><b>Features</b></summary>
 
